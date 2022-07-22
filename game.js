@@ -239,12 +239,11 @@ function Update()
         let p = Percent(t,0,3.3)
         let b = Math.abs(3-4*p)/1.7;
         let c1 =`hsla(${t*99},99%,50%)`;
-        level.DrawText('BOUNCE',   pos.Clone().AddXY(0,-b), 33*p,'center',2,'#000',c1);
-        level.DrawText('BACK',     pos.Clone().AddXY(0,b+1.2), 33*p,'center',2,'#000',c1);
+        level.DrawText('Boomerang Ninja Game',   pos.Clone().AddXY(0,-b), 33*p,'center',2,'#000',c1);
         if (levelFrame==200)
-            level.DrawText('A JS13k 2019 Game',   new Vector2(8,9.5), 14);
+            level.DrawText('Ølgod Denmark 2022 Game',   new Vector2(8,9.5), 14);
         if (levelFrame==260)
-            level.DrawText('By Frank Force',   new Vector2(8,10.5), 14);
+            level.DrawText('By Diego Ruiz',   new Vector2(8,10.5), 14);
     }
 }
 
