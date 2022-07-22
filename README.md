@@ -1,4 +1,4 @@
-![Boomerang Ninja Game Image](/screenshot.png)
+![Boomerang Ninja Game Image](/ninja.jpg)
 
 ### Controls
 * WASD = Move
