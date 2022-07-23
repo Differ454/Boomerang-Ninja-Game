@@ -1,7 +1,10 @@
 ![Boomerang Ninja Game Image](/ninja.jpg)
 
 ### Controls
-* WASD = Move
+* up = W
+* Down = S
+* Left = D
+* Right = A
 * Mouse = Aim
 * Click = Throw
 * Space = Dash
